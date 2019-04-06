@@ -1,7 +1,7 @@
 # FiscalNote Data Project
-This repository contains materials for the FiscalNote take home data project. These include:
-- Twitter data from the handles of 6 different congressional lawmakers
-- An annotated Jupyter notebook report with various analyses and insights
-  - Overview and visualization of data
+This repository contains materials for FiscalNote's take home data project. These include:
+- Twitter data from the handles of 4 different congressional lawmakers, totaling over 17,000 tweets
+- An annotated Jupyter notebook report with various analyses and insights concerning the political rhetoric of lawmakers, such as:
+  - General overview & visualization of data
   - Sentiment analysis 
 
